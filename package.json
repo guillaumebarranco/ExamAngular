@@ -1,0 +1,60 @@
+{
+  "name": "webarranco_starter",
+  "version": "1.0.8",
+  "description": "This package provides:\r \t- bower with dependencies : jquery/foundation\r \t- index.html ready with jquery and foundation css charged\r \t- main.js jquery-ready\r \t- gulp with gulpfile for sass, watch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "ECV"
+  },
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uncss": "^1.0.4",
+    "gulp-watch": "^4.3.5"
+  },
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "gulp-jshint": "^1.12.0",
+    "gulp-scss-lint": "^0.3.8",
+    "gulp-uglify": "^1.5.1",
+    "yargs": "^3.30.0"
+  },
+  "gitHead": "f457a6c07b8a13dc2c083198e54e1237d01edef2",
+  "_id": "webarranco_starter@1.0.8",
+  "_shasum": "b03feeacb0776fd0e0433712225c049b8813f40c",
+  "_from": "webarranco_starter@latest",
+  "_npmVersion": "2.14.20",
+  "_nodeVersion": "4.4.1",
+  "_npmUser": {
+    "name": "webarranco",
+    "email": "guillaume.barranco8@hotmail.fr"
+  },
+  "dist": {
+    "shasum": "b03feeacb0776fd0e0433712225c049b8813f40c",
+    "tarball": "https://registry.npmjs.org/webarranco_starter/-/webarranco_starter-1.0.8.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "webarranco",
+      "email": "guillaume.barranco8@hotmail.fr"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/webarranco_starter-1.0.8.tgz_1459946895590_0.7195024110842496"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/webarranco_starter/-/webarranco_starter-1.0.8.tgz"
+}

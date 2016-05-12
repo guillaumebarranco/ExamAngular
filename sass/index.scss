@@ -1,0 +1,75 @@
+$grey: #ddd;
+$primary: #F2C171;
+
+body {
+	padding: 10px;
+}
+
+table {
+	thead {
+		text-align: center;
+	}
+
+	th {
+		color: gold !important;
+		background-color: black !important;
+	}
+
+	tr, td  {
+		background-color: $grey !important;
+		border: none;
+	}
+}
+
+.film {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+	box-sizing: border-box;
+	width: 200px;
+	height: 100px;
+
+	&:first-child {
+		margin-left: 0;
+	}
+
+	p {
+		margin: 0;
+		font-size: 11px;
+
+		&.title {
+			text-transform: uppercase;
+		}
+	}
+}
+
+.block {
+	height: 100%;
+	padding: 10px;
+	width: 100%;
+	background-color: #fff;
+	border: solid 1px black;
+
+	&.nomovie {
+		border: none;
+		background-color: $grey;
+
+		text-align: center;
+	}
+}
+
+.primary {
+		background-color: $primary;
+	}
+
+	.secondary {
+		background-color: $grey;
+	}
+
+.redPoint {
+	background-color: red;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	margin: 0 auto;
+}

@@ -1,0 +1,6 @@
+<section role="tabpanel" ng-show="getTabVal($index) === 3">	
+	<h3>Acteurs</h3>
+	<ul class="actors" ng-repeat="actor in film.actors">
+		<li>{{actor.firstname}} {{actor.name}}</li>
+	</ul>
+</section>

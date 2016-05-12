@@ -1,0 +1,379 @@
+[
+	{
+		"name": "Agassi",
+		"author": "Chan-Wook Park",
+		"duration" : "02:25",
+		"projections": [
+			{
+				"date": "2016-05-14", 
+				"hour": "08:30", 
+				"location":"Debussy",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-14", 
+				"hour": "08:30", 
+				"location":"Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-14", 
+				"hour": "22:00", 
+				"location":"Lumière",
+				"demand": "normal"
+			}
+		]
+	}, {
+		"name": "The BFG",
+		"author": "Steven Spielberg",
+		"duration" :"01:55",
+		"projections": [
+			{
+				"date": "2016-05-14", 
+				"hour": "11:45", 
+				"location": "Lumière",
+				"demand": "normal"
+			}, {
+
+				"date": "2016-05-14", 
+				"hour": "19:00", 
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "Mal de pierres",
+		"author": "Nicole Garcia",
+		"duration" :"02:00",
+		"projections": [
+			{
+				"date": "2016-05-15", 
+				"hour": "08:30", 
+				"location": "Debussy",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-15", 
+				"hour": "08:30", 
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-15", 
+				"hour": "11:30", 
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-15", 
+				"hour": "19:30", 
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "American Honey",
+		"author": "Andrea Arnold",
+		"duration" :"02:42",
+		"projections": [
+			{
+				"date": "2016-05-15", 
+				"hour": "15:30",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "The nice guys",
+		"author": "Shane Black",
+		"duration" :"01:56",
+		"projections": [
+			{
+				"date": "2016-05-15",
+				"hour": "22:30",
+				"location": "Lumière",
+				"demand": "normal"
+			}
+		]
+	}, {
+		"name": "Loving",
+		"author": "Jeff Nichols",
+		"duration" :"02:03",
+		"projections": [
+			{
+				"date":"2016-05-16",
+				"hour": "08:30",
+				"location": "Debussy",
+				"demand": "normal"
+			},
+			{
+
+				"date":"2016-05-16",
+				"hour": "08:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+
+				"date":"2016-05-16",
+				"hour": "11:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+
+				"date":"2016-05-16",
+				"hour": "19:00",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "Paterson",
+		"author": "Jim Jarmush",
+		"duration" :"01:53",
+		"projections": [
+			{
+				"date":"2016-05-16",
+				"hour": "16:00",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "Hands of stone",
+		"author": "Jonathan Jakubowicz",
+		"duration" :"01:56",
+		"projections": [
+			{
+				"date":"2016-05-16",
+				"hour": "22:00",
+				"location": "Lumière",
+				"demand": "normal"
+			}
+		]
+	}, {
+		"name": "Julieta",
+		"author": "Pedro Almodóvar",
+		"duration" :"01:36",
+		"projections": [
+			{
+				"date": "2016-05-17",
+				"hour": "08:30",
+				"location": "Debussy",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-17",
+				"hour": "08:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-17",
+				"hour": "13:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-17",
+				"hour": "19:30",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "Personal Assistant",
+		"author": "Olivier Assayas",
+		"duration" :"01:45",
+		"projections": [
+			{
+				"date": "2016-05-17",
+				"hour": "11:00",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-17",
+				"hour": "22:00",
+				"location": "Lumière",
+				"demand": "normal"
+			}
+		]
+	}, {
+		"name": "Aquarius",
+		"author": "Kleben Mendonça Filho",
+		"duration" :"02:20",
+		"projections": [
+			{
+				"date": "2016-05-17",
+				"hour": "16:00",
+				"location": "Lumière",
+				"demand": "normal"
+			}
+		]
+	}, {
+		"name": "La fille inconnue",
+		"author": "Jean-Pierre et Luc Dardenne",
+		"duration" :"01:53",
+		"projections": [
+			{
+				"date": "2016-05-18",
+				"hour": "08:30",
+				"location": "Debussy",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-18",
+				"hour": "08:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-18",
+				"hour": "19:00",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "Goksung",
+		"author": "Hong Jin Na",
+		"duration" :"02:36",
+		"projections": [
+			{
+				"date": "2016-05-18",
+				"hour": "11:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+
+				"date": "2016-05-18",
+				"hour": "22:00",
+				"location": "Lumière",
+				"demand": "normal"
+			}
+		]
+	}, {
+		"name": "Ma' Rosa",
+		"author": "Brillante Mendoza",
+		"duration" :"01:50",
+		"projections": [
+			{
+				"date": "2016-05-18",
+				"hour": "16:00",
+				"location": "Lumière",
+				"demand": "normal"
+			}
+		]
+	}, {
+		"name": "Bacalauréat",
+		"author": "Cristian Mungiu",
+		"duration" :"02:07",
+		"projections": [
+			{
+				"date": "2016-05-19",
+				"hour": "08:30",
+				"location": "Debussy",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-19",
+				"hour": "08:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-19",
+				"hour": "14:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-19",
+				"hour": "18:30",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "Juste la fin du monde",
+		"author": "Xavier Dolan",
+		"duration" :"01:35",
+		"projections": [
+			{
+				"date": "2016-05-19",
+				"hour": "11:00",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-19",
+				"hour": "22:00",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "Gimme danger",
+		"author": "Jim Jarmush",
+		"duration" :"00:00",
+		"projections": [
+			{
+				"date": "2016-05-19",
+				"hour": "23:59",
+				"location": "Lumière",
+				"demand": "normal"
+			}
+		]
+	}, {
+		"name": "The last face",
+		"author": "Sean Penn",
+		"duration" :"02:11",
+		"projections": [
+			{
+				"date": "2016-05-20",
+				"hour": "08:30",
+				"location": "Debussy",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-20",
+				"hour": "08:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-20",
+				"hour": "15:30",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-20",
+				"hour": "19:00",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}, {
+		"name": "The neon demon",
+		"author": "Nicolas Winding Refn",
+		"duration" :"01:57",
+		"projections": [
+			{
+				"date": "2016-05-20",
+				"hour": "12:00",
+				"location": "Lumière",
+				"demand": "normal"
+			},
+			{
+				"date": "2016-05-20",
+				"hour": "22:30",
+				"location": "Lumière",
+				"demand": "high"
+			}
+		]
+	}
+]

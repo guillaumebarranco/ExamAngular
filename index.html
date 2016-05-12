@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+
+<html lang="fr" ng-app="CannesStore">
+
+	<head>
+		<title>Angular</title>
+
+		<meta charset="utf-8">
+
+		<div link-meta></div>
+		<div link-css></div>
+	</head>
+
+	<body>
+
+	<div ng-view></div>
+
+		<main ng-controller="CannesController">
+
+			<table>
+
+				<thead>
+					<tr>
+						<th></th>
+						<th>Debussy</th>
+						<th>Lumière</th>
+					</tr>
+					
+				</thead>
+
+				<tbody>
+
+					<tr ng-repeat="date in dates">
+						<td>{{date.name}}</td>
+						<td>
+							<div class="film" ng-repeat="film in date.filmsDe">
+								<product-film></product-film>
+							</div>
+						</td>
+						<td>
+							<div class="film" ng-repeat="film in date.filmsLu">
+								<product-film></product-film>
+							</div>
+						</td>
+					</tr>
+
+				</tbody>
+
+			</table>
+
+		</main>
+
+		<script src="bower_components/sweetalert/dist/sweetalert.min.js"></script>
+		<script src="bower_components/angular/angular.min.js"></script>
+		<script src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script src="js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,6 @@
+<li class="tab-title" 
+	ng-repeat="i in getNumber(number) track by $index" 
+	ng-class="{active : getTabVal($parent.$index) === $index+1}"
+>
+	<a ng-click="changeTab($parent.$index, $index+1)">{{tabName[$index+1]}}</a>
+</li>

@@ -1,0 +1,16 @@
+<div class="block" ng-if="film.name !== ''"'' ng-class="film.active" ng-click="clickSeance(film.name, film.hour, film.active)">
+
+	<p class="title">{{film.name}}</p>
+	<p class="author">{{film.author}}</p>
+	<p class="hour">
+		<img src="img/picto-horaire.png"/>
+		{{film.hour}}
+		<img src="img/picto-pas-de-demande.png" alt="">
+		Demander
+	</p>
+	<div ng-if="film.demand === 'high'" class="redPoint"></div>
+</div>
+
+<div class="block nomovie" ng-if="film.name === ''">
+	<img src="img/background-pas-de-seances.png" alt="">
+</div>
